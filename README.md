@@ -1,4 +1,4 @@
-Gestor de Tareas 📝
+#Gestor de Tareas 📝
 
 Aplicación de consola escrita en Python para gestionar una lista de tareas pendientes. 
 Proyecto de práctica dentro de mi ruta de aprendizaje de Python ("Ruta Python"), 
